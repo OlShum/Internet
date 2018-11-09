@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  design_id: 
+  year_id: 
+  title: MyString
+  body: MyText
+  cover: MyString
+
+two:
+  design_id: 
+  year_id: 
+  title: MyString
+  body: MyText
+  cover: MyString
