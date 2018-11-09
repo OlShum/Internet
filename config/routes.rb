@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
-  resources :tags
   resources :attachments
   resources :article_attachments
   resources :designs
